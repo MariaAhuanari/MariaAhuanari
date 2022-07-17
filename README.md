@@ -4,14 +4,16 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💻 I’m currently learning
-HTML, CSS and JavaScript
+-HTML
+-CSS
+-JavaScript
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Find me
 <a href="https://twitter.com">
-  <img align="left" alt="Maria's Twitter" width="22px" backgroundcolor="gray "src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Maria's Twitter" width="22px" background="gray "src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/mitsuki.3107/">
   <img align="left" alt="Marias's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
