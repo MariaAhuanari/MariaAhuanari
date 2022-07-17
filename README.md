@@ -18,7 +18,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📱Find me
-<a href="https://twitter.com/Mariah15101" alt="Twitter" > <img align="left"src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="25" width="25"> </a>   
+<a href="https://twitter.com/Mariah15101" alt="Twitter" > <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="25" width="25"> </a>   
 
 <a href="https://www.facebook.com/Maria-Alexandra-Ahuanari-Murayari" alt="Facebook"> <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="25" width="25"></a>
 
