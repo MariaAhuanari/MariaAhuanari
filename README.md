@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hiya! I'm Maria  👋👩🏽‍💻 </h1>
-<h3 align="center">|Software Engineering Student|</h3> <br>
+<h1 align="center"> Hiya! I'm Maria     👋👩🏽‍💻 </h1>
+<h3 align="center">| Software Engineering Student |</h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,13 +18,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📱Find me
-<a href="https://twitter.com">
-  <img align="left" alt="Maria's Twitter" width="22px" border="2px solid white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/mitsuki.3107/">
-  <img align="left" alt="Marias's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/Maria-Alexandra-Ahuanari-Murayari/">
-  <img align="left" alt="Marias's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<a href="https://twitter.com/Mariah15101" alt="Twitter" > <img align="left"src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="25" width="25"> </a>   
 
+<a href="https://www.facebook.com/Maria-Alexandra-Ahuanari-Murayari" alt="Facebook"> <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="25" width="25"></a>
+
+<a href="https://www.instagram.com/mitsuki.3107" alt="Instagram"><img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="25" width="25"></a>
+
+<a href="mailto:alexandramisw@gmail.com" alt="Contact me"> <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="25" width="25"></a>
+ 
