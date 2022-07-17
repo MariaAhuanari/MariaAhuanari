@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hiya! I'm Maria     👋👩🏽‍💻 </h1>
-<p align="center" font-height="bold">| Software Engineering Student |</p>
+<p align="center"> Software Engineering Student |</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
