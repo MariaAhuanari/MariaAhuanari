@@ -8,14 +8,10 @@
 -  **Student at Universidad Peruana de Ciencias Aplicadas (UPC)** 
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<script
-      src="https://kit.fontawesome.com/7e5b2d153f.js"
-      crossorigin="anonymous"
-></script>
-    
+
 ### 💻 I’m currently learning
 -  **HTML** 
--  **CSS** <i class="fa-brands fa-css3"></i>
+-  **CSS** 
 -  **JAVASCRIPT**
 
 
@@ -23,6 +19,9 @@
 ### 📱Find me
 <a href="https://twitter.com">
   <img align="left" alt="Maria's Twitter" width="22px" border="2px solid white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://twitter.com">
+  <img align="left" alt="Maria's Twitter" width="22px" border="2px solid white" src="https://fontawesome.com/icons/css3?s=brands" />
 </a>
 <a href="https://www.instagram.com/mitsuki.3107/">
   <img align="left" alt="Marias's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
