@@ -8,7 +8,11 @@
 -  **Student at Universidad Peruana de Ciencias Aplicadas (UPC)** 
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<script
+      src="https://kit.fontawesome.com/7e5b2d153f.js"
+      crossorigin="anonymous"
+></script>
+    
 ### 💻 I’m currently learning
 -  **HTML** 
 -  **CSS** <i class="fa-brands fa-css3"></i>
