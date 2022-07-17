@@ -1,26 +1,16 @@
-### Hi I'm Maria 👋👩🏽‍💻
 
-<!--
-**MariaAhuanari/MariaAhuanari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> Hiya! I'm Maria 👋👩🏽‍💻 </h1>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💻 I’m currently learning
 HTML, CSS and JavaScript
 
-<img align="left" alt="HTML icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Find me
 <a href="https://twitter.com">
-  <img align="left" alt="Maria's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Maria's Twitter" width="22px" color="gray "src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/mitsuki.3107/">
   <img align="left" alt="Marias's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
