@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 💻 I’m currently learning
 HTML, CSS and JavaScript
 
-<img align="left" alt="HTML icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/HTML.svg" />
+<img align="left" alt="HTML icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" />
 
 ### Find me
 <a href="https://twitter.com">
