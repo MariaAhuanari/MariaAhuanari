@@ -1,17 +1,17 @@
 
 <h1 align="center"> Hiya! I'm Maria 👋👩🏽‍💻 </h1>
-<h3 align="center"> Software Engineering Student | ... </h3> <br>
+<h3 align="center"> | Software Engineering Student | </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💻 I’m currently learning
--  **HTML**: 
--  **HTML**: 
--  **HTML**: 
+-  **HTML** 
+-  **CSS**
+-  **JAVASCRIPT**
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Find me
+### 📱Find me
 <a href="https://twitter.com">
   <img align="left" alt="Maria's Twitter" width="22px" border="2px solid white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
