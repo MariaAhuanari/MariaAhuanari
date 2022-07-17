@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I’m currently learning HTML, CSS and JavaScript
+### 💻 I’m currently learning
+HTML, CSS and JavaScript
+
+<img align="left" alt="HTML icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/HTML.svg" />
 
 ### Find me
 <a href="https://twitter.com">
