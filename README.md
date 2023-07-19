@@ -20,11 +20,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📱Find me
+<a href="https:www.linkedin.com/in/maria-alexandra-ahuanari-murayari-942b02266" alt="LinkedIn"> <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/linkendin.png" height="25" width="25"></a>
+
+<a href="mailto:alexandramisw@gmail.com" alt="Contact me"> <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="25" width="25"></a>
+
 <a href="https://twitter.com/Mariah15101" alt="Twitter" > <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="25" width="25"> </a>   
 
 <a href="https://www.facebook.com/Maria-Alexandra-Ahuanari-Murayari" alt="Facebook"> <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="25" width="25"></a>
 
-<a href="https://www.instagram.com/mitsuki.3107" alt="Instagram"><img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="25" width="25"></a>
+<a href="https://www.instagram.com/callmetraya" alt="Instagram"><img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="25" width="25"></a>
 
-<a href="mailto:alexandramisw@gmail.com" alt="Contact me"> <img align="left" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="25" width="25"></a>
+
+
  
