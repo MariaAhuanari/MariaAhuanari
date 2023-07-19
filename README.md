@@ -14,7 +14,8 @@
 **![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)** <br>
 **![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)**<br>
 **![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)**<br>
-**![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter)**
+**![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter)**<br>
+**![Dart](https://img.shields.io/badge/-Dart-000000?style=for-the-badge&logo=dart)**
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
